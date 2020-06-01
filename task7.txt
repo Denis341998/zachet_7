@@ -1,0 +1,16 @@
+void main(){
+	int a;
+	int b;
+}
+
+void func1(){
+	print("1");
+}
+
+void func2(){
+	print("2");
+}
+
+void func3(){
+	print("3");
+}
